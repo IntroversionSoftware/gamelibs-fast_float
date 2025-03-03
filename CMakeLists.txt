@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.9)
+cmake_minimum_required(VERSION 3.16)
 
 project(fast_float VERSION 8.0.0 LANGUAGES CXX)
 set(FASTFLOAT_CXX_STANDARD 11 CACHE STRING "the C++ standard to use for fastfloat")
